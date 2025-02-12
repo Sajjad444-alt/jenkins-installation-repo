@@ -20,3 +20,6 @@ update-alternatives --config java
 systemctl enable jenkins
 systemctl start jenkins.service
 systemctl status jenkins.service
+
+
+#Made by Sajjad Iqbal
